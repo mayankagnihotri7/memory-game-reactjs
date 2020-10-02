@@ -1,0 +1,118 @@
+import React from "react";
+
+const BOX_DATA = [
+  {
+    id: 0,
+    isClicked: false,
+    cardId: 0,
+    name: "telegram",
+    icon: <i className="fab fa-telegram-plane"></i>,
+  },
+  {
+    id: 1,
+    isClicked: false,
+    cardId: 1,
+    name: "bolt",
+    icon: <i className="fas fa-bolt"></i>,
+  },
+  {
+    id: 2,
+    isClicked: false,
+    cardId: 2,
+    name: "gem",
+    icon: <i className="far fa-gem"></i>,
+  },
+  {
+    id: 3,
+    isClicked: false,
+    cardId: 3,
+    name: "bicycle",
+    icon: <i className="fas fa-bicycle"></i>,
+  },
+  {
+    id: 4,
+    isClicked: false,
+    cardId: 4,
+    name: "leaf",
+    icon: <i className="fas fa-leaf"></i>,
+  },
+  {
+    id: 5,
+    isClicked: false,
+    cardId: 5,
+    name: "anchor",
+    icon: <i className="fas fa-anchor"></i>,
+  },
+  {
+    id: 6,
+    isClicked: false,
+    cardId: 6,
+    name: "cube",
+    icon: <i className="fas fa-cube"></i>,
+  },
+  {
+    id: 7,
+    isClicked: false,
+    cardId: 7,
+    name: "bomb",
+    icon: <i className="fas fa-bomb"></i>,
+  },
+  {
+    id: 8,
+    isClicked: false,
+    cardId: 0,
+    name: "telegram",
+    icon: <i className="fab fa-telegram-plane"></i>,
+  },
+  {
+    id: 9,
+    isClicked: false,
+    cardId: 1,
+    name: "bolt",
+    icon: <i className="fas fa-bolt"></i>,
+  },
+  {
+    id: 10,
+    isClicked: false,
+    cardId: 2,
+    name: "gem",
+    icon: <i className="far fa-gem"></i>,
+  },
+  {
+    id: 11,
+    isClicked: false,
+    cardId: 3,
+    name: "bicycle",
+    icon: <i className="fas fa-bicycle"></i>,
+  },
+  {
+    id: 12,
+    isClicked: false,
+    cardId: 4,
+    name: "leaf",
+    icon: <i className="fas fa-leaf"></i>,
+  },
+  {
+    id: 13,
+    isClicked: false,
+    cardId: 5,
+    name: "anchor",
+    icon: <i className="fas fa-anchor"></i>,
+  },
+  {
+    id: 14,
+    isClicked: false,
+    cardId: 6,
+    name: "cube",
+    icon: <i className="fas fa-cube"></i>,
+  },
+  {
+    id: 15,
+    isClicked: false,
+    cardId: 7,
+    name: "bomb",
+    icon: <i className="fas fa-bomb"></i>,
+  },
+];
+
+export default BOX_DATA;
